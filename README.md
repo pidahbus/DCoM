@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dcom-a-deep-column-mapper-for-semantic-data/semanticity-prediction-on-viznet)](https://paperswithcode.com/sota/semanticity-prediction-on-viznet?p=dcom-a-deep-column-mapper-for-semantic-data)
+
 # DCoM
 **D**eep **Co**lumn **M**apper is a generalized deep learning framework which classifies the type of a column given its values. Under this framework there are several models at work. This repository allows to train, finetune and predict with a DCoM model. The academic paper link will be attached soon.
 
