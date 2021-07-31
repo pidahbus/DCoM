@@ -1,0 +1,8 @@
+tensorflow==2.3.0
+numpy==1.18.5
+scikit-learn==0.23.2
+transformers==4.2.2
+pandas==1.1.2
+loguru==0.3.2
+tqdm==4.40.2
+scipy==1.4.1
