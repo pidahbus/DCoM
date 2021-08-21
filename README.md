@@ -67,5 +67,5 @@ archivePrefix = {arXiv},
 
 ```
 
-## Contact Us
+## More Information
 For any clarification feel free to raise an issue. Additionally you can reach us at subhadipmaji.jumech@gmail.com
